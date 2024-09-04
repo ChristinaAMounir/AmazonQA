@@ -8,7 +8,7 @@ Automated tests scenarios on [Amazon](https://www.amazon.com/)
 
 # Pre-requisites
 First, Install ***Java*** as it is the used language , you can download it using the following link
-> [Java](https://www.java.com/)
+> [Java](https://www.java.com/)<br>
 Then, Download any java-supported IDE, i prefer to use Intellij
 > [JetBeans](https://www.jetbrains.com/idea/)
 
